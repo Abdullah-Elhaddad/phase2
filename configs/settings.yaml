@@ -1,0 +1,6 @@
+app_name: Phase2 Project Skeleton
+debug: true
+
+paths:
+  logs: "logs/"
+  data: "data/"
